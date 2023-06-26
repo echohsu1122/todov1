@@ -102,7 +102,7 @@ input[type="text"] {
     color: #333;
   }
 }
-input[type="text"]:checked {
+input:checked + span {
   text-decoration: line-through;
 }
 
