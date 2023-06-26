@@ -1,3 +1,4 @@
 # TODOLIST
 todolistV1-ReducerAndContext
-期許能在更加精進
+
+顏色版型參考:https://uidesigndaily.com/posts/figma-to-do-list-day-1543
