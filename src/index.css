@@ -102,6 +102,9 @@ input[type="text"] {
     color: #333;
   }
 }
+input[type="text"]:checked {
+  text-decoration: line-through;
+}
 
 /*pagenation*/
 .pagenation {
